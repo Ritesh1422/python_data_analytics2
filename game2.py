@@ -32,7 +32,10 @@ def update(dt):
     if keybord.right:
      p.x +=5
     if keybord.up:
-     p.y -5 
+     p.y +5=ps 
+    if keybord.down:
+     p.y -=space
+
  print(dt)
 #game loop
 pgzrun.go()   
