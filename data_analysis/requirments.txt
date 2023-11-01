@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+nbformat
+scipy
+opencv-contrib-python
+pillow
+streamlit
+nicegui
+scipy
+nbformat
+openpyxl
